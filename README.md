@@ -7,8 +7,8 @@ This project was created as a learning exercise by following a tutorial and then
 Several parts were modified and debugged to improve usability across different screen sizes.
 
 ## Based on
-This project is based on the following tutorial:
-YouTube: [Hand Distance Measurement with Normal Webcam + Game | OpenCV Python](https://www.youtube.com/watch?v=NGQgRH2_kq8)
+This project is based on the following YouTube tutorial:
+[Hand Distance Measurement with Normal Webcam + Game | OpenCV Python](https://www.youtube.com/watch?v=NGQgRH2_kq8)
 
 ## Features
 - Real-time hand tracking
